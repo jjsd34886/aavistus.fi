@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1076)"><rect width="1000" height="1000" fill="#000000"></rect><g transform="matrix(15.625,0,0,15.625,0,0)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"><defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d9488"></stop>
+      <stop offset="100%" stop-color="#065f46"></stop>
+    </linearGradient>
+  <clipPath id="SvgjsClipPath1076"><rect width="1000" height="1000" x="0" y="0" rx="500" ry="500"></rect></clipPath></defs><rect width="64" height="64" rx="12" fill="url(#bg4)"></rect><polygon points="12,12 52,12 52,20 24,44 52,44 52,52 12,52 12,44 40,20 12,20" fill="#ffffff" opacity="0.95"></polygon><circle cx="50" cy="50" r="11" fill="#134e4a"></circle><rect x="45" y="51" width="10" height="7" rx="2" fill="#2dd4bf"></rect><path d="M46 51 L46 48 Q46 44 50 44 Q53 44 53 47" fill="none" stroke="#2dd4bf" stroke-width="1.8" stroke-linecap="round"></path></svg></g></g></svg>
